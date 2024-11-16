@@ -33,7 +33,7 @@
 "0031","+","Enhanced Graphical User Interface"
 "0032","+","[demonized] Ledge Climbing Mantling"
 "0033","+","Levels_0.53"
-"0034","+","Exile_Haven_by_zorius_v0.5"
+"0034","+","Exile Haven by zorius"
 "0035","+","ATO 3"
 "0037","+","HIP_v2.6"
 "0038","+","HeatVision_v1.3"
